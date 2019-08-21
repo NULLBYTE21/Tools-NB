@@ -1,3 +1,6 @@
+#Tools By:NULLBYTE21
+#Release:19/08/2019
+#Update:21/08/2019
 import os
 import sys
 import time
